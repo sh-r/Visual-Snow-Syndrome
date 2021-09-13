@@ -7,9 +7,11 @@ Please have a look at the user manual available at https://github.com/sh-r/Visua
 You do not need Python or any of the libraries installed. Please download the executable available in the releases section https://github.com/sh-r/Visual-Snow-Syndrome/releases/tag/v1.0.0.
 
 2. For Linux (Tested on Ubuntu 20.04):<br/>
+Coming Soon!
 PyInstaller executable (To Be Added).
 
 3. For MAC:<br/>
+Coming Soon!
 PyInstaller executable (To Be Added).
 
 For developers:<br/>

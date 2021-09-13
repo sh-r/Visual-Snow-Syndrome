@@ -11,7 +11,7 @@ Coming Soon!
 PyInstaller executable (To Be Added).
 
 3. For MAC:<br/>
-Coming Soon!
+Mostly not coming soon :( Don't have a MAC and PyInstaller doesn't support cross-compilation. <br/>
 PyInstaller executable (To Be Added).
 
 For developers:<br/>

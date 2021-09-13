@@ -1,6 +1,6 @@
 # Visual-Snow-Syndrome
 
-Overall Project Members:
+Project Members:
 1. Shika Rao
 2. Tyler Dulin
 3. Aryan Zutshi

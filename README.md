@@ -13,7 +13,7 @@ PyInstaller executable (To Be Added).
 PyInstaller executable (To Be Added).
 
 For developers:<br/>
-You can clone this repository and download the contents. Instructions for this- To Be Added
+You can clone this repository and download the contents. Instructions for this- (To Be Added).
 
 Project Members:
 1. Shika Rao

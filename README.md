@@ -3,16 +3,16 @@
 For Users:<br/>
 Please have a look at the user manual available at https://github.com/sh-r/Visual-Snow-Syndrome/tree/master/documentation.
 
-1. For Windows:
+1. For Windows:<br/>
 You do not need Python or any of the libraries installed. Please download the executable available in the releases section (hyperlink to be added).
 
-2. For Linux (Tested on Ubuntu 20.04):
+2. For Linux (Tested on Ubuntu 20.04):<br/>
 PyInstaller executable to be added.
 
-3. For MAC:
+3. For MAC:<br/>
 PyInstaller executable to be added.
 
-For developers:
+For developers:<br/>
 You can clone this repository and download the contents. Instructions for this- To Be Added
 
 Project Members:

@@ -7,10 +7,10 @@ Please have a look at the user manual available at https://github.com/sh-r/Visua
 You do not need Python or any of the libraries installed. Please download the executable available in the releases section (hyperlink to be added).
 
 2. For Linux (Tested on Ubuntu 20.04):<br/>
-PyInstaller executable to be added.
+PyInstaller executable (To Be Added).
 
 3. For MAC:<br/>
-PyInstaller executable to be added.
+PyInstaller executable (To Be Added).
 
 For developers:<br/>
 You can clone this repository and download the contents. Instructions for this- To Be Added

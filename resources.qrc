@@ -1,0 +1,22 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file alias="close.png">icons/close.png</file>
+        <file alias="close_button.png">icons/close_button.png</file>
+        <file alias="content_copy.png">icons/content_copy.png</file>
+        <file alias="content_paste.png">icons/content_paste.png</file>
+        <file alias="folder_open.png">icons/folder_open.png</file>
+        <file alias="folder_open_button.png">icons/folder_open_button.png</file>
+        <file alias="fullscreen.png">icons/fullscreen.png</file>
+        <file alias="fullscreen_button.png">icons/fullscreen_button.png</file>
+        <file alias="fullscreen_exit.png">icons/fullscreen_exit.png</file>
+        <file alias="import_contacts.png">icons/import_contacts.png</file>
+        <file alias="info.png">icons/info.png</file>
+        <file alias="logo_noise.png">icons/logo_noise.png</file>
+        <file alias="save.png">icons/save.png</file>
+        <file alias="save_button.png">icons/save_button.png</file>
+        <file alias="visibility.png">icons/visibility.png</file>
+        <file alias="stylesheet">UI/Darkeum.qss</file>
+        <file alias="eye_chart.png">images/eye_chart.png</file>
+    </qresource>
+</RCC>

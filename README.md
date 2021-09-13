@@ -1,6 +1,6 @@
 # Visual-Snow-Syndrome
 
-For Users:
+For Users:<br/>
 Please have a look at the user manual available at https://github.com/sh-r/Visual-Snow-Syndrome/tree/master/documentation.
 
 1. For Windows:

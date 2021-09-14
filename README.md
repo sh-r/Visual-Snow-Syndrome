@@ -40,7 +40,7 @@ We welcome any open source contributions you would like to make! Just fork and c
 5. Simulating nyctalopia, floaters, afterimages, etc
 6. Taking in a saved image and using the saved text file to continue editing the same image 
 
-Note: We are not distributing it using Pypi i.e pip install as it's a GUI application and not just a module. 
+Note: We are NOT distributing it using Pypi i.e pip install as it's a GUI application and not just a module. 
 
 ## Contributions<br/>
 Project Members:

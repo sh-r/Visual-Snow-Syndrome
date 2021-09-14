@@ -1,6 +1,6 @@
 # Visual-Snow-Syndrome
 
-For Users:<br/>
+## For Users:<br/>
 Please have a look at the user manual available at https://github.com/sh-r/Visual-Snow-Syndrome/tree/master/documentation.
 
 1. For Windows (Tested on Windows 10):<br/>
@@ -29,7 +29,7 @@ The application is bundled on a 64 bit system. If you are using a 32 bit system,
 Mostly not coming soon :( Don't have a MAC and PyInstaller doesn't support cross-compilation. <br/>
 PyInstaller executable (To Be Added).
 
-For developers:<br/>
+## For developers:<br/>
 You can clone this repository and download the contents. Instructions for this- (To Be Added).
 
 Note: We are not distributing it using Pypi i.e pip install as it's a GUI application and not just a module. 

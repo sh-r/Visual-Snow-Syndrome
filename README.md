@@ -3,11 +3,11 @@
 ## For Users:<br/>
 Please have a look at the user manual available at https://github.com/sh-r/Visual-Snow-Syndrome/tree/master/documentation.
 
-1. For Windows (Tested on Windows 10):<br/>
+### For Windows (Tested on Windows 10):<br/>
 You do not need Python or any of the libraries installed. Please download the executable (you can download just the .exe file) available in the releases section https://github.com/sh-r/Visual-Snow-Syndrome/releases/tag/v1.0.0. A Setup Wizard has also been added which will walk you through the whole installation process. <br/>
 If you are not using Windows 10, https://pyinstaller.readthedocs.io/en/stable/usage.html#windows this issue may cause problems. Support for this is coming soon!
 
-2. For Linux (Tested on Ubuntu 20.04):<br/>
+### For Linux (Tested on Ubuntu 20.04):<br/>
 You do not need Python or any of the libraries installed. Please download the executable available in the releases section https://github.com/sh-r/Visual-Snow-Syndrome/releases/tag/v1.1.0. <br/>
 Double clicking the application file will not work. You have to run it from the terminal.<br/>
 
@@ -25,7 +25,7 @@ Also, since PyInstaller applications are not backward compatible (https://pyinst
 The application is bundled on a 64 bit system. If you are using a 32 bit system, the bundled application may not work. However, you can always have a look at the documentation for developers and follow the instructions to run the code directly from your system.
 
 
-3. For MAC:<br/>
+### For MAC:<br/>
 Mostly not coming soon :( Don't have a MAC and PyInstaller doesn't support cross-compilation. <br/>
 PyInstaller executable (To Be Added).
 

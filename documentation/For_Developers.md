@@ -31,7 +31,7 @@ virtualenv <the name of your environment>
 4. Install the requirements file in the same directory of the virtual environment where you have downloaded the repo.
 
 5. Run the application
-<pre><code> pip3 install requirements.txt
+<pre><code>pip3 install requirements.txt
 python VisualSnowSyndrome_Diagnostic.py  
 </code></pre>
  

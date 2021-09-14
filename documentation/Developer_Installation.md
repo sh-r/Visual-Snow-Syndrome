@@ -1,8 +1,13 @@
+# Installation Guidelines
+Currently application was developed and tested on Windows 10 and Ubuntu 20.04. But the application should work with other OS too since PyQT5 is used for the application development and it has cross-platform development support. <br/>
+The application works with WSL2 as well when an X-server application, like Vcxsrv is used for GUI forwarding. <br/>
+
 I would highly recommend using a virtual environment so that there is no interference from global site packages.
  
 ## For Windows:
  
 If you have PyCharm, I would recommend using it.
+
 ### With Pycharm:
 1. Create a new project with virtual environment, and DO NOT INHERIT GLOBAL SITE PACKAGES.
 2. In that project directory, download this repo.
@@ -20,7 +25,7 @@ python VisualSnowSyndrome_Diagnostic.py
 1. Install a virtual environment. For installing 'pip' refer above section.
 
 2. Create a virtual environment and activate it
-<pre><code> pip install virtualenv
+<pre><code>pip install virtualenv
 cd (the directory you wish to create the folder in)
 virtualenv (the name of your environment) 
 (the name of your environment)\Scripts\activate 
@@ -31,40 +36,34 @@ virtualenv (the name of your environment)
 4. Install the requirements file in the same directory of the virtual environment where you have downloaded the repo.
 
 5. Run the application
-<pre><code> pip3 install requirements.txt
+<pre><code>pip3 install requirements.txt
 python VisualSnowSyndrome_Diagnostic.py  
 </code></pre>
  
-2. Linux:
- 
-Step1: First install pip and virtual environment
-$ sudo apt install python3-pip
+## Using Linux:
+
+1. First install pip and virtual environment
+2. Create a virtual environment and activate it
+<pre><code>$ sudo apt install python3-pip
 $ sudo apt-get install python3-venv
- 
-Step 2: To create the virtual environment
 $ cd <the directory you wish to create the folder in>
 $ python3 -m venv <the name of your environment>
- 
-Step 3: Activate the virtual environment
-$ source <the name of your environment>/bin/activate
- 
-Step 4: Download this repository
-Download and copy this repo into the virtual environment.
- 
-Step 5: Install the requirements file
-$ cd <the name of your environment>
+$ source (the name of your environment)/bin/activate
+</code></pre>
+
+3. Download this repository into the virtual environment.
+4. Install the requirements file - All of the dependencies of this application will then be installed.
+5. Run the application
+<pre><code>$ cd (the name of your environment)
 $ pip install -r requirements.txt
- 
-All of the dependencies of this application will then be installed.
- 
-Step 6: Run the application
 $ python VisualSnowSyndrome_Diagnostic.py
- 
-If you face an error, it could probably be that Windows uses CLRF line endings and Linux uses LF line endings. Mostly when you download the code from GitHub, the line endings are according to the OS you are using. But if you are facing an issue, open all of the files in Visual Studio Code or any other IDE and change the line endings to LF. Otherwise, you can also pip install a package called dos2unix.
-$ dos2unix <filename>
-Then the application should work.
+</code></pre>
+If you face an error, it could probably be that Windows uses CLRF line endings and Linux uses LF line endings. Mostly when you download the code from GitHub, the line endings are according to the OS you are using. But if you are facing an issue, open all of the files in Visual Studio Code or any other IDE and change the line endings to LF. Otherwise, you can also:
+<pre><code>$ pip install dos2unix
+$ dos2unix (filename)
+</code></pre>
 
-
+# Open Source Contributions
 We welcome any open source contributions you would like to make! Just fork and clone the repo and send a pull request. Some of the improvements we thought of till now:
 1. Adding more types of noise like gaussian, poisson, localvar, etc 
 2. Bug fixes, anything that you can find

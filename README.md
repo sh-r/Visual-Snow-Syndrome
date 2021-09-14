@@ -10,7 +10,7 @@ If you are not using Windows 10, https://pyinstaller.readthedocs.io/en/stable/us
 2. For Linux (Tested on Ubuntu 20.04):<br/>
 Coming Soon!
 PyInstaller executable (To Be Added).<br/>
-The application is bundled on a 64 bit system. If you are using a 32 bit system, this application will not work.
+The application is bundled on a 64 bit system. If you are using a 32 bit system, the bundled application will not work. However, you can always have a look at the documentation for developers and follow the intsructions to run the code directly from your system.
 
 
 3. For MAC:<br/>

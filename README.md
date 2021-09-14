@@ -9,11 +9,13 @@ If you are not using Windows 10, https://pyinstaller.readthedocs.io/en/stable/us
 
 2. For Linux (Tested on Ubuntu 20.04):<br/>
 You do not need Python or any of the libraries installed. Please download the executable available in the releases section https://github.com/sh-r/Visual-Snow-Syndrome/releases/tag/v1.1.0. <br/>
+
 Commands:
 > $ cd <name of driectory you have downloaded the file><br/>
-> $ ./Visual_Snow_Diagnostic<br/>
-Also, since PyInstaller applications are not backward compatible (https://pyinstaller.readthedocs.io/en/stable/usage.html#gnu-linux) and the development was done on Ubuntu 20.04, it may not work on Ubuntu 18.04 and earlier versions. Still, you are welcome to test it out! 
-The application is bundled on a 64 bit system. If you are using a 32 bit system, the bundled application may not work. However, you can always have a look at the documentation for developers and follow the instructions to run the code directly from your system.
+> $ ./Visual_Snow_Diagnostic
+  
+  Also, since PyInstaller applications are not backward compatible (https://pyinstaller.readthedocs.io/en/stable/usage.html#gnu-linux) and the development was done on Ubuntu   20.04, it may not work on Ubuntu 18.04 and earlier versions. Still, you are welcome to test it out!
+  The application is bundled on a 64 bit system. If you are using a 32 bit system, the bundled application may not work. However, you can always have a look at the documentation for developers and follow the instructions to run the code directly from your system.
 
 
 3. For MAC:<br/>

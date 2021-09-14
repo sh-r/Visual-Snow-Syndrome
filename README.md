@@ -20,6 +20,8 @@ PyInstaller executable (To Be Added).
 For developers:<br/>
 You can clone this repository and download the contents. Instructions for this- (To Be Added).
 
+Note: We are not distributing it using Pypi i.e pip install as it's a GUI application and not just a package of code. 
+
 Project Members:
 1. Shika Rao
 2. Tyler Dulin

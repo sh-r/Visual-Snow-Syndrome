@@ -15,7 +15,7 @@ Commands:<pre><code>$ cd <name of driectory you have downloaded the file><br/>
 $ ./Visual_Snow_Diagnostic
 </code></pre>
 
-You may have to make the file executable if it is not working from the terminal. 
+You may have to make the file executable if it is not working from the terminal. Refer to the steps below.
 1. Right click the file 
 2. Click Properties 
 3. Change permissions to executable

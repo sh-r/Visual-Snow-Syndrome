@@ -7,36 +7,29 @@ If you have PyCharm, I would recommend using it.
 1. Create a new project with virtual environment, and DO NOT INHERIT GLOBAL SITE PACKAGES.
 2. In that project directory, download this repo.
 3. Install pip- Most of the time pip comes installed with python builds.
-> pip help
-Type the above in the command prompt to check if you have pip already installed. If you don't, then please refer to below for instructions:
-https://www.liquidweb.com/kb/install-pip-windows/
+<code><pre>pip help
+</code></pre>
+Type the above in the command prompt to check if you have pip already installed. If you don't, then please refer to below for instructions: https://www.liquidweb.com/kb/install-pip-windows/ 
+4. Install the requirements file and then run the file.
+<code><pre> pip3 install requirements.txt
+python VisualSnowSyndrome_Diagnostic.py </code></pre>
  
-Step 4: Install the requirements file.
-> pip3 install requirements. txt
+### Without PyCharm:
  
-Step 5: Run VisualSnowSyndrome_Diagnostic.py
+1. Install a virtual environment. For installing 'pip' refer above section.
+
+2. Create a virtual environment and activate it. 
+<code><pre> pip install virtualenv
+cd <the directory you wish to create the folder in>
+virtualenv <the name of your environment> 
+<the name of your environment>\Scripts\activate </code></pre>
  
-Steps for those installing without PyCharm:
+3. Download this repository and copy this repo into the virtual environment folder.
  
-Step 1: Install a virtual environment. For installing 'pip' refer above section.
-> pip install virtualenv
- 
-Step 2: Create a virtual environment
-> cd <the directory you wish to create the folder in>
-> virtualenv <the name of your environment>
- 
-Step 3: Activate the virtual environment
->  <the name of your environment>\Scripts\activate
- 
-Step 4: Download this repository
-Download and copy this repo into the virtual environment folder.
- 
-Step 5: Install the requirements file
-If you are in the same directory of the virtual environment where you have downloaded the repo,
-> pip3 install requirements.txt
- 
-Step 6: Run the application
-> python VisualSnowSyndrome_Diagnostic.py
+4. Install the requirements file in the same directory of the virtual environment where you have downloaded the repo.
+5. Run the application
+<code><pre> pip3 install requirements.txt
+python VisualSnowSyndrome_Diagnostic.py  </code></pre>
  
 2. Linux:
  

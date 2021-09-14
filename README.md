@@ -12,8 +12,10 @@ You do not need Python or any of the libraries installed. Please download the ex
 Double clicking the application file will not work. You have to run it from the terminal.<br/>
 
 Commands:
+<pre><code>
 > $ cd <name of driectory you have downloaded the file><br/>
 > $ ./Visual_Snow_Diagnostic
+</code></pre>
 
 You may have to make the file executable if it is not working from the terminal. 
 > Right click the file <br/>

@@ -25,7 +25,7 @@ Also, since PyInstaller applications are not backward compatible (https://pyinst
 The application is bundled on a 64 bit system. If you are using a 32 bit system, the bundled application may not work. However, you can always have a look at the documentation for developers and follow the instructions to run the code directly from your system.
 
 
-### For MAC:<br/>
+### For MAC OS:<br/>
 Mostly not coming soon :( Don't have a MAC and PyInstaller doesn't support cross-compilation. <br/>
 PyInstaller executable (To Be Added).
 

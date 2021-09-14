@@ -1,6 +1,5 @@
 # Installation Guidelines
-Currently application was developed and tested on Windows 10 and Ubuntu 20.04. But the application should work with other OS too since PyQT5 is used for the application development and it has cross-platform development support. <br/>
-The application works with WSL2 as well when an X-server application, like Vcxsrv is used for GUI forwarding. <br/>
+Currently application was developed and tested on Windows 10 and Ubuntu 20.04. But the application should work with other OS too since PyQT5 is used for the application development and it has cross-platform development support. The application works with WSL2 as well when an X-server application, like Vcxsrv is used for GUI forwarding. <br/>
 
 I would highly recommend using a virtual environment so that there is no interference from global site packages.
  

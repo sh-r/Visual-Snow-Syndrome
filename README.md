@@ -30,7 +30,8 @@ Mostly not coming soon :( Don't have a MAC and PyInstaller doesn't support cross
 PyInstaller executable (To Be Added).
 
 ## For developers:<br/>
-You can clone this repository and download the contents. Instructions for this- (To Be Added).
+You can clone this repository and download the contents.<br/> 
+Have a look at the instructions for this- TBA.
 
 We welcome any open source contributions you would like to make! Just fork and clone the repo and send a pull request. Some of the improvements we thought of till now:
 1. Adding more types of noise like gaussian, poisson, localvar, etc 

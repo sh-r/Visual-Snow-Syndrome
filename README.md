@@ -9,7 +9,8 @@ If you are not using Windows 10, https://pyinstaller.readthedocs.io/en/stable/us
 
 2. For Linux (Tested on Ubuntu 20.04):<br/>
 You do not need Python or any of the libraries installed. Please download the executable available in the releases section https://github.com/sh-r/Visual-Snow-Syndrome/releases/tag/v1.1.0. <br/>
-Double Clicking the application file will not work. You have to run it from the terminal.<br/>
+Double clicking the application file will not work. You have to run it from the terminal.<br/>
+
 Commands:
 > $ cd <name of driectory you have downloaded the file><br/>
 > $ ./Visual_Snow_Diagnostic

@@ -32,7 +32,7 @@ PyInstaller executable (To Be Added).
 
 ## For developers:<br/>
 You can clone this repository and download the contents.<br/> 
-Have a look at the instructions for installation here- https://github.com/sh-r/Visual-Snow-Syndrome/blob/master/documentation/Developer_Installation.md. <br/>
+Have a look at the instructions for installation here- https://github.com/sh-r/Visual-Snow-Syndrome/blob/master/documentation/Developer_Installation.md. The instructions for contribution and ideas are also mentioned. <br/>
 For the Code Documentation like the file structure, packages used, etc, please refer to - https://github.com/sh-r/Visual-Snow-Syndrome/tree/master/documentation.
 
 Note 1: We are NOT distributing it using Pypi i.e pip install as it's a GUI application and not just a module. <br/>

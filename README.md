@@ -33,14 +33,6 @@ PyInstaller executable (To Be Added).
 You can clone this repository and download the contents.<br/> 
 Have a look at the instructions for this- https://github.com/sh-r/Visual-Snow-Syndrome/blob/master/documentation/For_Developers.md.
 
-We welcome any open source contributions you would like to make! Just fork and clone the repo and send a pull request. Some of the improvements we thought of till now:
-1. Adding more types of noise like gaussian, poisson, localvar, etc 
-2. Bug fixes, anything that you can find
-3. An executable file compatible with MAC OS X
-4. Making the noise continuously moving, sort of like an animation
-5. Simulating nyctalopia, floaters, afterimages, etc
-6. Taking in a saved image and using the saved text file to continue editing the same image 
-
 Note 1: We are NOT distributing it using Pypi i.e pip install as it's a GUI application and not just a module. <br/>
 Note 2: Versioning System used is:
 - v1.0.0- for Windows

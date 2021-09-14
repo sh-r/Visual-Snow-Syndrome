@@ -40,11 +40,11 @@ We welcome any open source contributions you would like to make! Just fork and c
 5. Simulating nyctalopia, floaters, afterimages, etc
 6. Taking in a saved image and using the saved text file to continue editing the same image 
 
-Note: We are NOT distributing it using Pypi i.e pip install as it's a GUI application and not just a module. <br/>
-Note2: Versioning System used is:
+Note 1: We are NOT distributing it using Pypi i.e pip install as it's a GUI application and not just a module. <br/>
+Note 2: Versioning System used is:
 - v1.0.0- for Windows
 - v1.1.0- for Linux
-- v1.2.0- for MAC OS
+- v1.2.0- for MAC OS <br/>
 Then v1.0.1 would indicate updates to the first version of Windows and similarly for Linux and MAC.
 
 ## Contributions<br/>

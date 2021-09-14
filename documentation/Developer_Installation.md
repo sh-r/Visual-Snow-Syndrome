@@ -66,7 +66,8 @@ $ dos2unix (filename)
 We welcome any open source contributions you would like to make! Just fork and clone the repo and send a pull request. Some of the improvements we thought of till now:
 1. Adding more types of noise like gaussian, poisson, localvar, etc 
 2. Bug fixes, anything that you can find
-3. An executable file compatible with MAC OS X
-4. Making the noise continuously moving, sort of like an animation
-5. Simulating nyctalopia, floaters, afterimages, etc
-6. Taking in a saved image and using the saved text file to continue editing the same image 
+3. In the Linux executable file, the icon is not shown when opened in File Explorer. I did follow the instructions of PyInstaller but something is going wrong. 
+4. An executable file compatible with MAC OS X
+5. Making the noise continuously moving, sort of like an animation
+6. Simulating nyctalopia, floaters, afterimages, etc
+7. Taking in a saved image and using the saved text file to continue editing the same image 

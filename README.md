@@ -16,12 +16,12 @@ $ ./Visual_Snow_Diagnostic
 </code></pre>
 
 You may have to make the file executable if it is not working from the terminal. 
-> Right click the file <br/>
-> Click Properties <br/>
-> Change permissions to executable
+1. Right click the file 
+2. Click Properties 
+3. Change permissions to executable
 
 Note:
-Also, since PyInstaller applications are not backward compatible (https://pyinstaller.readthedocs.io/en/stable/usage.html#gnu-linux) and the development was done on Ubuntu   20.04, it may not work on Ubuntu 18.04 and earlier versions. Still, you are welcome to test it out!
+Also, since PyInstaller applications are not backward compatible (https://pyinstaller.readthedocs.io/en/stable/usage.html#gnu-linux) and the development was done on Ubuntu   20.04, it may not work on Ubuntu 18.04 and earlier versions. Still, you are welcome to test it out! <br/>
 The application is bundled on a 64 bit system. If you are using a 32 bit system, the bundled application may not work. However, you can always have a look at the documentation for developers and follow the instructions to run the code directly from your system.
 
 
@@ -31,7 +31,7 @@ PyInstaller executable (To Be Added).
 
 ## For developers:<br/>
 You can clone this repository and download the contents.<br/> 
-Have a look at the instructions for installation here- https://github.com/sh-r/Visual-Snow-Syndrome/blob/master/documentation/Developer_Installation.md.
+Have a look at the instructions for installation here- https://github.com/sh-r/Visual-Snow-Syndrome/blob/master/documentation/Developer_Installation.md. <br/>
 For the Code Documentation like the file structure, packages used, etc, please refer to - https://github.com/sh-r/Visual-Snow-Syndrome/tree/master/documentation.
 
 Note 1: We are NOT distributing it using Pypi i.e pip install as it's a GUI application and not just a module. <br/>

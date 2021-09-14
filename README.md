@@ -12,13 +12,13 @@ You do not need Python or any of the libraries installed. Please download the ex
 Double clicking the application file will not work. You have to run it from the terminal.<br/>
 
 Commands:
-    > $ cd <name of driectory you have downloaded the file><br/>
-    > $ ./Visual_Snow_Diagnostic
+> $ cd <name of driectory you have downloaded the file><br/>
+> $ ./Visual_Snow_Diagnostic
 
 You may have to make the file executable if it is not working from the terminal. 
-    > Right click the file <br/>
-    > Click Properties <br/>
-    > Change permissions to executable
+> Right click the file <br/>
+> Click Properties <br/>
+> Change permissions to executable
 
 Note:
 Also, since PyInstaller applications are not backward compatible (https://pyinstaller.readthedocs.io/en/stable/usage.html#gnu-linux) and the development was done on Ubuntu   20.04, it may not work on Ubuntu 18.04 and earlier versions. Still, you are welcome to test it out!

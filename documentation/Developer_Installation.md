@@ -46,7 +46,7 @@ python VisualSnowSyndrome_Diagnostic.py
 2. Create a virtual environment and activate it
 <pre><code>$ sudo apt install python3-pip
 $ sudo apt-get install python3-venv
-$ cd <the directory you wish to create the folder in>
+$ cd (the directory you wish to create the folder in)
 $ python3 -m venv <the name of your environment>
 $ source (the name of your environment)/bin/activate
 </code></pre>

@@ -3,11 +3,11 @@
 ## For Users:<br/>
 Please have a look at the user manual available at https://github.com/sh-r/Visual-Snow-Syndrome/tree/master/documentation.
 
-### For Windows (Tested on Windows 10):<br/>
+### For Windows (Tested and Packaged on Windows 10):<br/>
 You do not need Python or any of the libraries installed. Please download the executable (you can download just the .exe file) available in the releases section https://github.com/sh-r/Visual-Snow-Syndrome/releases/tag/v1.0.0. A Setup Wizard has also been added which will walk you through the whole installation process. <br/>
 If you are not using Windows 10, https://pyinstaller.readthedocs.io/en/stable/usage.html#windows this issue may cause problems. Support for this is coming soon!
 
-### For Linux (Tested on Ubuntu 20.04):<br/>
+### For Linux (Tested and Packaged on Ubuntu 20.04):<br/>
 You do not need Python or any of the libraries installed. Please download the executable available in the releases section https://github.com/sh-r/Visual-Snow-Syndrome/releases/tag/v1.1.0. <br/>
 Double clicking the application file will not work. You have to run it from the terminal.<br/>
 

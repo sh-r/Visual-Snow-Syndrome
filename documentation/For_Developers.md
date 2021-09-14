@@ -7,8 +7,7 @@ If you have PyCharm, I would recommend using it.
 1. Create a new project with virtual environment, and DO NOT INHERIT GLOBAL SITE PACKAGES.
 2. In that project directory, download this repo.
 3. Install pip- Most of the time pip comes installed with python builds.
-<pre><code>
-pip help
+<pre><code>pip help
 </code></pre>
 Type the above in the command prompt to check if you have pip already installed. If you don't, then please refer to below for instructions: https://www.liquidweb.com/kb/install-pip-windows/ 
 4. Install the requirements file and then run the file.

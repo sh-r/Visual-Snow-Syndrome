@@ -11,7 +11,7 @@ If you are not using Windows 10, https://pyinstaller.readthedocs.io/en/stable/us
 You do not need Python or any of the libraries installed. Please download the executable available in the releases section https://github.com/sh-r/Visual-Snow-Syndrome/releases/tag/v1.1.0. <br/>
 Double clicking the application file will not work. You have to run it from the terminal.<br/>
 
-Commands:<pre><code>$ cd <name of driectory you have downloaded the file><br/>
+Commands:<pre><code>$ cd (name of driectory you have downloaded the file)
 $ ./Visual_Snow_Diagnostic
 </code></pre>
 

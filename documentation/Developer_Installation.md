@@ -72,5 +72,5 @@ We welcome any open source contributions you would like to make! Just fork and c
 6. Taking in a saved image and using the saved text file to continue editing the same image 
 7. Implementing stacks, i.e. Undo and Redo operations
 8. Bug fixes
-9. Maybe add the icon as a small window on startup of the application? I did spend a lot of time on the logo xD.
+9. Maybe add the icon as a small window on startup of the application? I did spend a lot of time on the logo for it just to be really small xD.
 

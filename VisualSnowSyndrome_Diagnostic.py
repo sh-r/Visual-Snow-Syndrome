@@ -568,6 +568,7 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
     def removePhoto(self):
         """ This function removes the image when something goes wrong. Connected to an error popup.
         """
+        self.label.removeEventFilter(self)
         self.label.clear()
 
     def brightness_value(self, value):

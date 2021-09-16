@@ -33,7 +33,6 @@ The application is bundled on a 64 bit system. If you are using a 32 bit system,
 
 ### For MAC OS:<br/>
 Mostly not coming soon :( Don't have a MAC and PyInstaller doesn't support cross-compilation. <br/>
-PyInstaller executable (To Be Added).
 
 ## For developers:<br/>
 You can clone this repository and download the contents.<br/> 

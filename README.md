@@ -21,7 +21,7 @@ $ chmod +x Visual_Snow_Diagnostic
 $ ./Visual_Snow_Diagnostic
 </code></pre>
 
-You may have to make the file executable if it is not working from the terminal. Refer to the steps below.
+The 'chmod +x' command makes it executable. You may have to make the file executable if it is not working from the terminal. Refer to the steps below.
 1. Right click the file 
 2. Click Properties 
 3. Change permissions to executable

@@ -13,7 +13,7 @@ Please note we have a Code of Conduct. Please follow it in all your interactions
 When you submit code changes, your submissions are understood to be under the same MIT License that covers the project. 
 Feel free to contact the maintainers if that's a concern.
 
-# Contributors Pull Request Checklist
+## Contributors Pull Request Checklist
 1. Fork the repository and branch from development.
 
 2. Work on your changes. Make sure you commit as frequently as required. Once you're done making the changes, push the commits to your fork. 

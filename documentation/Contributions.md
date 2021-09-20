@@ -41,6 +41,17 @@ The subject of a commit message should be:
 Maintainers' Guide to Versioning
 
 
-
 Note: Regarding master: master should always point to the latest release commit i.e a commit that updates the version number in the changelog and any other files. 
 The commit that master points to should also be tagged with the version number of that release.
+
+## Open Source Contributions
+We welcome any open source contributions you would like to make! Some of the improvements we thought of till now:
+1. Adding more types of noise like gaussian, poisson, localvar, etc 
+2. In the Linux executable file, the icon is not shown when opened in File Explorer though the --icon flag was set in PyInstaller.
+3. An executable file compatible with MAC OS X
+4. Making the noise continuously moving, sort of like an animation
+5. Simulating nyctalopia, floaters, afterimages, etc
+6. Taking in a saved image and using the saved text file to continue editing the same image 
+7. Implementing stacks, i.e. Undo and Redo operations
+8. Bug fixes
+9. Maybe add the icon as a small window on startup of the application? I did spend a lot of time on the logo for it just to be really small xD.

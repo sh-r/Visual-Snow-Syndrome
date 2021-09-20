@@ -19,7 +19,7 @@ Feel free to contact the maintainers if that's a concern.
 2. Work on your changes. Make sure you commit as frequently as required. Once you're done making the changes, push the commits to your fork. 
 Checkout the Commit Messages section to find guidelines relating to commit messages.
 
-3. If the changes you make fixes a bug in master or adds a new feature, note it down in the changelog.
+3. If the changes you make fixes a bug in master or adds a new feature, note it down in the [changelog](https://github.com/sh-r/Visual-Snow-Syndrome/blob/master/documentation/CHANGELOG.md).
 
 4. Head over to the pull requests page and create a new pull request. Make sure that the PR is from your feature branch into this repo's development branch. 
 If you are making changes that affect the UI in any way, attach an image in your PR description.
@@ -38,8 +38,12 @@ The subject of a commit message should be:
 3. kept short, while concisely explaining what the commit does.
 4. clear about what part of the code is affected
 
-Maintainers' Guide to Versioning
-
+## Maintainers' Guide to Versioning
+Versioning System used is:
+- v1.0.0- for Windows
+- v1.1.0- for Linux
+- v1.2.0- for MAC OS <br/>
+Then v1.0.1 would indicate updates to the first version of Windows and similarly for Linux and MAC.
 
 Note: Regarding master: master should always point to the latest release commit i.e a commit that updates the version number in the changelog and any other files. 
 The commit that master points to should also be tagged with the version number of that release.

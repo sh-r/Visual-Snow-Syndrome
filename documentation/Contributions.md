@@ -2,7 +2,7 @@
 Thank you for taking time to contribute (or at least considering to). This is a community project.
 
 Contribution does not necessarily mean you have to modify source code and fix a bug or add a new functionality. 
-Reporting a bug using the [Issues](url) tab is also highly appreciated and a good way to start contributing to the project.
+Reporting a bug using the [Issues](https://github.com/sh-r/Visual-Snow-Syndrome/issues) tab is also highly appreciated and a good way to start contributing to the project.
 
 It is essential that you know how to use Git as well as GitHub. 
 While the maintainers will be more than happy helping you make your first PR, prerequisite know-how makes it easier for everyone involved. 
@@ -10,7 +10,7 @@ Check this [guide](https://github.com/firstcontributions/first-contributions) if
 
 Please note we have a Code of Conduct. Please follow it in all your interactions with the project.
 
-When you submit code changes, your submissions are understood to be under the same MIT License that covers the project. 
+When you submit code changes, your submissions are understood to be under the same [License](https://github.com/sh-r/Visual-Snow-Syndrome/blob/master/LICENSE) that covers the project. 
 Feel free to contact the maintainers if that's a concern.
 
 ## Contributors Pull Request Checklist
@@ -27,7 +27,7 @@ If you are making changes that affect the UI in any way, attach an image in your
 5. Wait for a maintainer to review your commit. If they find any issue (including redundant code, unnecessary changes, potential bugs), they will point it out to you. 
 Make any necessary changes and push them to your fork. Ideally, try not to force push as it becomes harder for the maintainers to keep track of changes. 
 Mark the review as resolved.
-If everything looks okay, the maintainer(s) will go ahead and merge your changes into the repo.
+If everything looks okay, the maintainers will go ahead and merge your changes into the repo.
 
 ## Commit Messages
 Proper commit messages (subject + body) is a very important aspect of any project. 
@@ -44,7 +44,7 @@ Maintainers' Guide to Versioning
 Note: Regarding master: master should always point to the latest release commit i.e a commit that updates the version number in the changelog and any other files. 
 The commit that master points to should also be tagged with the version number of that release.
 
-## Open Source Contributions
+## Few Contribution Suggestions
 We welcome any open source contributions you would like to make! Some of the improvements we thought of till now:
 1. Adding more types of noise like gaussian, poisson, localvar, etc 
 2. In the Linux executable file, the icon is not shown when opened in File Explorer though the --icon flag was set in PyInstaller.

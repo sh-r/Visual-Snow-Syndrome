@@ -62,15 +62,3 @@ If you face an error, it could probably be that Windows uses CLRF line endings a
 $ dos2unix (filename)
 </code></pre>
 
-# Open Source Contributions
-We welcome any open source contributions you would like to make! Just fork and clone the repo and send a pull request. Some of the improvements we thought of till now:
-1. Adding more types of noise like gaussian, poisson, localvar, etc 
-2. In the Linux executable file, the icon is not shown when opened in File Explorer though the --icon flag was set in PyInstaller.
-3. An executable file compatible with MAC OS X
-4. Making the noise continuously moving, sort of like an animation
-5. Simulating nyctalopia, floaters, afterimages, etc
-6. Taking in a saved image and using the saved text file to continue editing the same image 
-7. Implementing stacks, i.e. Undo and Redo operations
-8. Bug fixes
-9. Maybe add the icon as a small window on startup of the application? I did spend a lot of time on the logo for it just to be really small xD.
-

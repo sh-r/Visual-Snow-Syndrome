@@ -50,3 +50,5 @@ Project Members:
 Original Contributors to the code:
 1. Shika Rao
 2. Aryan Zutshi
+
+We also welocme open source contributions. Have a look at https://github.com/sh-r/Visual-Snow-Syndrome/blob/master/documentation/Contributions.md for guidenlines.

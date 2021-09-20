@@ -39,13 +39,7 @@ You can clone this repository and download the contents.<br/>
 Have a look at the instructions for installation here- https://github.com/sh-r/Visual-Snow-Syndrome/blob/master/documentation/Developer_Installation.md. The instructions for contribution and ideas are also mentioned. <br/>
 For the Code Documentation like the file structure, packages used, etc, please refer to - https://github.com/sh-r/Visual-Snow-Syndrome/tree/master/documentation.
 
-Note 1: We are NOT distributing it using Pypi i.e pip install as it's a GUI application and not just a module. <br/>
-Note 2: Versioning System used is:
-- v1.0.0- for Windows
-- v1.1.0- for Linux
-- v1.2.0- for MAC OS <br/>
-
-Then v1.0.1 would indicate updates to the first version of Windows and similarly for Linux and MAC.
+Note: We are NOT distributing it using Pypi i.e pip install as it's a GUI application and not just a module. <br/>
 
 ## Contributions<br/>
 Project Members:

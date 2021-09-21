@@ -3,7 +3,8 @@
 This repository contains a diagnostic tool for Visual Snow Syndrome. The application simulates the conditions of Visual Snow Syndrome so that the progression of the disease can be quantified.
 
 ## What is Visual Snow Syndrome? <br/>
-To Be Added.
+It is a classified as a rare disease affecting a known population of less than 8000 people.
+To be added.
 
 ## For Users:<br/>
 Please have a look at the user manual available at https://github.com/sh-r/Visual-Snow-Syndrome/tree/master/documentation.
